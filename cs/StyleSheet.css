@@ -1,143 +1,58 @@
 
-#header
+#image1,#image2,#image3,#image4
 {
-    height:auto;
-    width:1350px;
-    background: black;
+    height: 340px;
+    width:340px;
+}
+#image1
+{
+    transform: rotate(-10deg);
+    margin-left: 400px;
+    margin-top:200px;
+    position:relative;
+}
+#image2
+{
+    transform: rotate(15deg);
+    margin-top: 200px;
+    position:relative;
+}
+#image3
+{
+    transform: rotate(25deg);
+    margin-left:400px;
+    position:relative;
+}
+#image4
+{
+    transform:rotate(-35deg);
+    position:relative;
+}
+#first
+{
+    height:400px;
+    width:600px;
+    background: yellow;
     float:left;
 }
-#Home
+#second
 {
-    height:auto;
-    width:200px;
-    color:white;
-    background: red;
-    border-top-left-radius: 150px;
-    border-top-right-radius: 150px;
-    margin-left: 120px;
+    height:400px;
+    width:600px;
+    background: green;
     float:left;
 }
-#header div a{
-    color: white;
-    text-decoration: none;
-}
-#header div a:hover{
-    cursor:pointer;
-    text-shadow : 5px 5px 20px black;
-}
-#Alumni
+#fourth
 {
-    height:auto;
-    width:200px;
-    color:white;
-    background: red;
-    border-top-left-radius: 150px;
-    border-top-right-radius: 150px;
-    margin-left: 20px;
+    height:400px;
+    width:600px;
+    background:yellow;
     float:left;
 }
-#Gallery
+#third
 {
-    height:auto;
-    width:200px;
-    color:white;
-    background: red;
-    border-top-left-radius: 150px;
-    border-top-right-radius: 150px;
-    margin-left: 20px;
-    float:left;
-}
-#Contact
-{
-    height:auto;
-    width:200px;
-    color:white;
-    background: red;
-    border-top-left-radius: 150px;
-    border-top-right-radius: 150px;
-    margin-left: 20px;
-    float:left;
-}
-#Aboutus
-{
-    height:auto;
-    width:200px;
-    color:white;
-    background: red;
-    border-top-left-radius: 150px;
-    border-top-right-radius: 150px;
-    margin-left: 20px;
-    float:left;
-}
-#Menus
-{
-    height:500px;
-    width:1350px;
-    
-}
-#blank
-{
-    height:500px;
-    width:320px;
-    
-    float: left;
-}
-
-#nexDivision
-{
-   height:500px;
-    width:200px;
-    margin-left: 20px;
-    float:left;
-}
-
-#nextDivision2
-{
-    height:500px;
-    width:200px;
-    margin-left: 20px;
-    float:left;
-}
-#nextDivision3
-{
-    height:500px;
-    width:200px;
-    margin-left: 20px;
-    float:left;
-}
-#nextDivision4
-{
-    height:500px;
-    width:200px;
-    margin-left: 20px;
-   
-   float:left;
-}
-#Menu1
-{
-    
-    width:200px;
-   background:darkcyan;
-
-     float:left;
-}
-#Menu2
-{
-   
-    width:200px;
-    background:darkslateblue;
-    float:left;
-}
-#Menu3
-{
-   
-    width:200px;
-    background:darkseagreen;
-    float:left;
-}
-#Menu4
-{
-    width:200px;
-    background:darksalmon;
+    height:400px;
+    width:600px;
+    background:green;
     float:left;
 }
