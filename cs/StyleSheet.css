@@ -1,0 +1,143 @@
+
+#header
+{
+    height:auto;
+    width:1350px;
+    background: black;
+    float:left;
+}
+#Home
+{
+    height:auto;
+    width:200px;
+    color:white;
+    background: red;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    margin-left: 120px;
+    float:left;
+}
+#header div a{
+    color: white;
+    text-decoration: none;
+}
+#header div a:hover{
+    cursor:pointer;
+    text-shadow : 5px 5px 20px black;
+}
+#Alumni
+{
+    height:auto;
+    width:200px;
+    color:white;
+    background: red;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    margin-left: 20px;
+    float:left;
+}
+#Gallery
+{
+    height:auto;
+    width:200px;
+    color:white;
+    background: red;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    margin-left: 20px;
+    float:left;
+}
+#Contact
+{
+    height:auto;
+    width:200px;
+    color:white;
+    background: red;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    margin-left: 20px;
+    float:left;
+}
+#Aboutus
+{
+    height:auto;
+    width:200px;
+    color:white;
+    background: red;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    margin-left: 20px;
+    float:left;
+}
+#Menus
+{
+    height:500px;
+    width:1350px;
+    
+}
+#blank
+{
+    height:500px;
+    width:320px;
+    
+    float: left;
+}
+
+#nexDivision
+{
+   height:500px;
+    width:200px;
+    margin-left: 20px;
+    float:left;
+}
+
+#nextDivision2
+{
+    height:500px;
+    width:200px;
+    margin-left: 20px;
+    float:left;
+}
+#nextDivision3
+{
+    height:500px;
+    width:200px;
+    margin-left: 20px;
+    float:left;
+}
+#nextDivision4
+{
+    height:500px;
+    width:200px;
+    margin-left: 20px;
+   
+   float:left;
+}
+#Menu1
+{
+    
+    width:200px;
+   background:darkcyan;
+
+     float:left;
+}
+#Menu2
+{
+   
+    width:200px;
+    background:darkslateblue;
+    float:left;
+}
+#Menu3
+{
+   
+    width:200px;
+    background:darkseagreen;
+    float:left;
+}
+#Menu4
+{
+    width:200px;
+    background:darksalmon;
+    float:left;
+}
